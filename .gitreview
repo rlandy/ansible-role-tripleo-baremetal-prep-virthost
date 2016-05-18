@@ -1,0 +1,6 @@
+[gerrit]
+host=review.gerrithub.io
+port=29418
+project=rlandy/ansible-role-tripleo-baremetal-prep-virthost.git
+defaultbranch=master
+
